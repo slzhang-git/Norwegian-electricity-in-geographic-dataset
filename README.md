@@ -7,7 +7,7 @@ we present a comprehensive geographic dataset representing the electricity syste
 
 Shiliang Zhang, Sabita Maharjan, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _Zenodo_, 2025. https://doi.org/10.5281/zenodo.16794604.
 
-The data can be directly downloaded from Zenodo at https://doi.org/10.5281/zenodo.16794603 
+**Download the dataset directly** from Zenodo at https://doi.org/10.5281/zenodo.16794603 
 
 A detailed description of the dataset including data features and number of recordings is also available at Zenodo.
 
