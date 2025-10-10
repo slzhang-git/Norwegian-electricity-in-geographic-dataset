@@ -1,5 +1,3 @@
-![My Image](ScreenshotInteractiveMaps.png)
-
 # Norwegian electricity in geographic dataset (NoreGeo)
 This repository is about a geographic dataset for the electricity infrastructures, power grids, power plants, power production and consumption, and power resources in Norway in 2024. Interactive maps based on our data is also available.
 
@@ -34,3 +32,7 @@ A detailed description of the dataset including data features and number of reco
 [Municipality level energy consumption](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=f1efdace78c741599b34271749afaf14)
 
 [Norwegian population distribution](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=3a5917deab76451e944936d75404234c)
+
+Below is the screen shot of one of our interactive maps on ArcGIS Online:
+
+![My Image](ScreenshotInteractiveMaps.png)
