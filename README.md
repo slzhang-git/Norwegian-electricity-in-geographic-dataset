@@ -14,7 +14,7 @@ we present a comprehensive geographic dataset representing the electricity syste
 Shiliang Zhang, Sabita Maharjan, Kai Strunz, Jan Christian Bryne, "Norwegian Electricity in Geographic Dataset (NoreGeo)," in _IEEE Data Descriptions_ (2026). [10.1109/IEEEDATA.2026.3658039](https://doi.org/10.1109/IEEEDATA.2026.3658039)
 
 BibTex:<br>
-@article{zhang2025norwegian,<br>
+@article{11364211,<br>
   title={Norwegian Electricity in Geographic Dataset (NoreGeo)},<br>
   author={Zhang, Shiliang and Maharjan, Sabita and Strunz, Kai and Bryne, Jan Christian},<br>
   journal={Descriptor: Norwegian Electricity in Geographic Dataset (NoreGeo)},<br>
