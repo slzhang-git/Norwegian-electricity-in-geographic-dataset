@@ -13,17 +13,18 @@ we present a comprehensive geographic dataset representing the electricity syste
 
 Shiliang Zhang, Sabita Maharjan, Kai Strunz, Jan Christian Bryne, "Descriptor: Norwegian Electricity in Geographic Dataset (NoreGeo)," _IEEE Data Descriptions_, vol. 3, pp. 82-92, 2026. [10.1109/IEEEDATA.2026.3658039](https://doi.org/10.1109/IEEEDATA.2026.3658039)
 
-BibTex:<br>
-@article{11364211,<br>
-  title={Descriptor: Norwegian Electricity in Geographic Dataset (NoreGeo)},<br>
-  author={Zhang, Shiliang and Maharjan, Sabita and Strunz, Kai and Bryne, Jan Christian},<br>
-  journal={IEEE Data Descriptions},<br>
-  pages={82-92},<br>
-  volume={3},<br>
-  doi={10.1109/IEEEDATA.2026.3658039},<br>
-  year={2026}<br>
+BibTex:
+```text
+@article{11364211,
+  title={Descriptor: Norwegian Electricity in Geographic Dataset (NoreGeo)},
+  author={Zhang, Shiliang and Maharjan, Sabita and Strunz, Kai and Bryne, Jan Christian},
+  journal={IEEE Data Descriptions},
+  pages={82-92},
+  volume={3},
+  doi={10.1109/IEEEDATA.2026.3658039},
+  year={2026}
 }
-
+```
 
 
 **Interactive maps** based on our geographic dataset are publicly avaialbe via ArcGIS Online:
